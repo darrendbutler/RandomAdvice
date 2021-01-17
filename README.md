@@ -23,3 +23,4 @@ I learned the differences between the types of layouts and deepened my understan
 1. Allow user to save their favorite advice.
 2. Use computer vision to give advice on object
 
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
